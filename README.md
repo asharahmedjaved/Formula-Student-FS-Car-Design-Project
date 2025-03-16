@@ -46,19 +46,6 @@ The following tools and software are used in this project:
 
 ---
 
-## Repository Structure  
-Formula-Student-Car-Design/
-├── 3D-Models/ # SOLIDWORKS files for individual parts and assemblies
-├── Simulations/ # ANSYS simulation files (FEA, CFD, thermal analysis)
-├── Optimization/ # Files related to topology optimization and design iterations
-├── Documentation/ # Engineering drawings, reports, and portfolio materials
-├── Resources/ # Tutorials, references, and learning materials
-└── README.md # Project overview and documentation
-
-Copy
-
----
-
 ## How to Use This Repository  
 1. **Clone the Repository:**  
    ```bash
@@ -66,7 +53,7 @@ Copy
 Explore the Files:
 Navigate through the folders to view 3D models, simulation results, and documentation.
 
-##Contact
+## Contact
 ---
 Name: Ashar Ahmed Javed
 Email: asharahmedjaved@gmail.com
