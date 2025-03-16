@@ -1,4 +1,4 @@
-# Formula Student (FS) Car Design Project  
+# Formula Student (FS) Car Design Project  (A work in progress)
 This repository documents my journey to design, simulate, and optimize a **Formula Student (FS) car** from scratch. The project focuses on creating a high-performance, lightweight, and aerodynamically efficient vehicle using advanced **3D modeling**, **simulation**, and **optimization techniques**.  
 
 ---
